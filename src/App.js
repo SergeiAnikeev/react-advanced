@@ -1,10 +1,10 @@
 import React from 'react'
-import UseStateObject from './UseStateObject'
+import UseStateCounter from './UseStateCounter'
 
 function App() {
   return (
     <div className='container'>
-      <UseStateObject />
+      <UseStateCounter />
     </div>
   )
 }
