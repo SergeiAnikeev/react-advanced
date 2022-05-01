@@ -1,10 +1,10 @@
 import React from 'react'
-import UseStateCounter from './UseStateCounter'
+import UseStateArray from './UseStateArray'
 
 function App() {
   return (
     <div className='container'>
-      <UseStateCounter />
+      <UseStateArray />
     </div>
   )
 }
