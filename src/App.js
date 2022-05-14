@@ -1,10 +1,10 @@
 import React from 'react'
-import UseEffect from './UseEffectFetchData'
+import MultipleReturns from './MultipleReturns'
 
 function App() {
   return (
     <div className='container'>
-      <UseEffect />
+      <MultipleReturns />
     </div>
   )
 }
