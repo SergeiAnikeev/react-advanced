@@ -1,10 +1,10 @@
 import React from 'react'
-import MultipleReturns from './MultipleReturns'
+import ShortCircuit from './ShortCircuit'
 
 function App() {
   return (
     <div className='container'>
-      <MultipleReturns />
+      <ShortCircuit />
     </div>
   )
 }
